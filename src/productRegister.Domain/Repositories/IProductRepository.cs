@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace productRegister.Domain.Repositories
 {
-    internal interface IProductRepository : IRepositoryBase<Product>
+    public interface IProductRepository : IRepositoryBase<Product>
     {
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aron\\Code\\productRegister\\productRegister.Test\\productRegister.Test.csproj": {}
+    "C:\\Users\\Aron\\Code\\productRegister\\src\\productRegister.Test\\productRegister.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aron\\Code\\productRegister\\productRegister.Test\\productRegister.Test.csproj": {
+    "C:\\Users\\Aron\\Code\\productRegister\\src\\productRegister.Test\\productRegister.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aron\\Code\\productRegister\\productRegister.Test\\productRegister.Test.csproj",
+        "projectUniqueName": "C:\\Users\\Aron\\Code\\productRegister\\src\\productRegister.Test\\productRegister.Test.csproj",
         "projectName": "productRegister.Test",
-        "projectPath": "C:\\Users\\Aron\\Code\\productRegister\\productRegister.Test\\productRegister.Test.csproj",
+        "projectPath": "C:\\Users\\Aron\\Code\\productRegister\\src\\productRegister.Test\\productRegister.Test.csproj",
         "packagesPath": "C:\\Users\\Aron\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aron\\Code\\productRegister\\productRegister.Test\\obj\\",
+        "outputPath": "C:\\Users\\Aron\\Code\\productRegister\\src\\productRegister.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aron\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,26 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[17.8.0, )"
