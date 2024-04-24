@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Aron\\Code\\productRegister\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{461A2734-7146-4819-84ED-ECF78B51F8EE}|productRegister.Domain\\productRegister.Domain.csproj|c:\\users\\aron\\code\\productregister\\src\\productregister.domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{461A2734-7146-4819-84ED-ECF78B51F8EE}|productRegister.Domain\\productRegister.Domain.csproj|solutionrelative:productregister.domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{957F4591-9464-404A-8A78-8E953A310C96}|productRegister.Infra\\productRegister.Infra.csproj|c:\\users\\aron\\code\\productregister\\src\\productregister.infra\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{957F4591-9464-404A-8A78-8E953A310C96}|productRegister.Infra\\productRegister.Infra.csproj|solutionrelative:productregister.infra\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{461A2734-7146-4819-84ED-ECF78B51F8EE}|productRegister.Domain\\productRegister.Domain.csproj|c:\\users\\aron\\code\\productregister\\src\\productregister.domain\\repositories\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{461A2734-7146-4819-84ED-ECF78B51F8EE}|productRegister.Domain\\productRegister.Domain.csproj|solutionrelative:productregister.domain\\repositories\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{957F4591-9464-404A-8A78-8E953A310C96}|productRegister.Infra\\productRegister.Infra.csproj|c:\\users\\aron\\code\\productregister\\src\\productregister.infra\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,8 +19,12 @@
       "RelativeMoniker": "D:0:0:{461A2734-7146-4819-84ED-ECF78B51F8EE}|productRegister.Domain\\productRegister.Domain.csproj|solutionrelative:productregister.domain\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{461A2734-7146-4819-84ED-ECF78B51F8EE}|productRegister.Domain\\productRegister.Domain.csproj|c:\\users\\aron\\code\\productregister\\src\\productregister.domain\\repositories\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{461A2734-7146-4819-84ED-ECF78B51F8EE}|productRegister.Domain\\productRegister.Domain.csproj|solutionrelative:productregister.domain\\repositories\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{461A2734-7146-4819-84ED-ECF78B51F8EE}|productRegister.Domain\\productRegister.Domain.csproj|c:\\users\\aron\\code\\productregister\\src\\productregister.domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{461A2734-7146-4819-84ED-ECF78B51F8EE}|productRegister.Domain\\productRegister.Domain.csproj|solutionrelative:productregister.domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{957F4591-9464-404A-8A78-8E953A310C96}|productRegister.Infra\\productRegister.Infra.csproj|c:\\users\\aron\\code\\productregister\\src\\productregister.infra\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{957F4591-9464-404A-8A78-8E953A310C96}|productRegister.Infra\\productRegister.Infra.csproj|solutionrelative:productregister.infra\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,32 +47,57 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\Aron\\Code\\productRegister\\src\\productRegister.Infra\\Repositories\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "productRegister.Infra\\Repositories\\RepositoryBase.cs",
+              "ToolTip": "C:\\Users\\Aron\\Code\\productRegister\\src\\productRegister.Infra\\Repositories\\RepositoryBase.cs",
+              "RelativeToolTip": "productRegister.Infra\\Repositories\\RepositoryBase.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABAAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T22:31:14.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Aron\\Code\\productRegister\\src\\productRegister.Infra\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "productRegister.Infra\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Aron\\Code\\productRegister\\src\\productRegister.Infra\\Data\\DataContext.cs",
+              "RelativeToolTip": "productRegister.Infra\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T23:47:04.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Aron\\Code\\productRegister\\src\\productRegister.Domain\\Models\\Product.cs",
               "RelativeDocumentMoniker": "productRegister.Domain\\Models\\Product.cs",
               "ToolTip": "C:\\Users\\Aron\\Code\\productRegister\\src\\productRegister.Domain\\Models\\Product.cs",
               "RelativeToolTip": "productRegister.Domain\\Models\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-20T03:09:30.934Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ProductDTO.cs",
               "DocumentMoniker": "C:\\Users\\Aron\\Code\\productRegister\\src\\productRegister.Infra\\DTOs\\ProductDTO.cs",
               "RelativeDocumentMoniker": "productRegister.Infra\\DTOs\\ProductDTO.cs",
               "ToolTip": "C:\\Users\\Aron\\Code\\productRegister\\src\\productRegister.Infra\\DTOs\\ProductDTO.cs",
               "RelativeToolTip": "productRegister.Infra\\DTOs\\ProductDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-20T03:09:13.542Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\Aron\\Code\\productRegister\\src\\productRegister.Domain\\Repositories\\IProductRepository.cs",
               "RelativeDocumentMoniker": "productRegister.Domain\\Repositories\\IProductRepository.cs",
@@ -77,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "IRepositoryBase.cs",
               "DocumentMoniker": "C:\\Users\\Aron\\Code\\productRegister\\src\\productRegister.Domain\\Repositories\\IRepositoryBase.cs",
               "RelativeDocumentMoniker": "productRegister.Domain\\Repositories\\IRepositoryBase.cs",
